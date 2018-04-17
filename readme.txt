@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkrishnachml%2Fproto-java_hcp_bluegreen.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkrishnachml%2Fproto-java_hcp_bluegreen?ref=badge_shield)
+
 #################################################
 # Welcome to the SAP Cloud Platform SDK Samples #
 #################################################
@@ -76,3 +78,7 @@ mvn clean verify ... -Dhttps.proxyHost=... -Dhttps.proxyPort=...
 Hint: If your proxy requires authentication, you may like to pass along proxy user name and password and implement
       an Authenticator (http://docs.oracle.com/javase/7/docs/api/java/net/Authenticator.html). That is not shown
       in these SDK samples for the sake of better readability.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkrishnachml%2Fproto-java_hcp_bluegreen.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkrishnachml%2Fproto-java_hcp_bluegreen?ref=badge_large)
